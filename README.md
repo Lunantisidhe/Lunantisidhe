@@ -1,12 +1,3 @@
-### My portfolio:
-<div>
-  <a href="https://rebecagonzalezbala.wixsite.com/rgbd" target="_blank">
-    rebecagonzalezbala.wixsite.com
-  </a>
-</div>
-
----
-
 ### My LinkedIn
 <div id="badges">
   <a href="https://www.linkedin.com/in/rebeca-gonzalez-balado" target="_blank">
