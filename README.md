@@ -7,7 +7,7 @@
 
 ### My Portfolio
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rebeca-gonzalez-balado" target="_blank">
+  <a href="https://portafolio-git-main-lunantisidhes-projects.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-777BB4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
